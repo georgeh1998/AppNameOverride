@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AppNameOverride"
 include(":app")
+include(":myModule")
